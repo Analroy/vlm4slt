@@ -13,16 +13,6 @@ We also introduce two new SLT evaluation metrics: **Translation Soft Recall (TSR
 
 ---
 
-## Results (BLEU-4 / ROUGE-L, Test Set)
-
-| Model | PHOENIX-2014T | How2Sign | OpenASL | iSign |
-|---|---|---|---|---|
-| SmolVLM2-2.2B | 8.44 / 24.51 | 0.06 / 8.38 | 0.41 / 7.78 | 0.44 / 8.21 |
-| Qwen2.5-VL-3B | 2.78 / 9.79 | 0.02 / 5.05 | 0.07 / 4.46 | 0.18 / 3.87 |
-| InternVL3-2B | 8.00 / 26.49 | 0.11 / 8.55 | 2.96 / 14.66 | 0.68 / 9.20 |
-
----
-
 > Code and models coming soon.
 
 ---
