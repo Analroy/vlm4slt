@@ -1,7 +1,6 @@
 # vlm4slt — Can Small Vision–Language Models Perform Sign Language Translation?
 
 [![ACL 2026](https://img.shields.io/badge/ACL-2026%20Findings-blue)](https://aclanthology.org/)
-<![![arXiv](https://img.shields.io/badge/arXiv-preprint-red)](https://arxiv.org/)>
 
 **Anal Roy Chowdhury and Debarshi Kumar Sanyal**
 Indian Association for the Cultivation of Science (IACS), Kolkata, India
